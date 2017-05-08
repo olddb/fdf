@@ -1,0 +1,137 @@
+Warning: Makefile: Norminette can't check this file.
+Warning: auteur: Norminette can't check this file.
+Norme: draw.c
+Warning: draw.o: Norminette can't check this file.
+Warning: fdf: Norminette can't check this file.
+Norme: fdf.h
+Norme: get_next_line.c
+Norme: get_next_line.h
+Warning: get_next_line.o: Norminette can't check this file.
+Norme: l_funcs.c
+Warning: l_funcs.o: Norminette can't check this file.
+Norme: libft/ft_atoi.c
+Warning: libft/ft_atoi.o: Norminette can't check this file.
+Norme: libft/ft_bzero.c
+Warning: libft/ft_bzero.o: Norminette can't check this file.
+Norme: libft/ft_isalnum.c
+Warning: libft/ft_isalnum.o: Norminette can't check this file.
+Norme: libft/ft_isalpha.c
+Warning: libft/ft_isalpha.o: Norminette can't check this file.
+Norme: libft/ft_isascii.c
+Warning: libft/ft_isascii.o: Norminette can't check this file.
+Norme: libft/ft_isdigit.c
+Warning: libft/ft_isdigit.o: Norminette can't check this file.
+Norme: libft/ft_isprint.c
+Warning: libft/ft_isprint.o: Norminette can't check this file.
+Norme: libft/ft_isspace.c
+Warning: libft/ft_isspace.o: Norminette can't check this file.
+Norme: libft/ft_itoa.c
+Warning: libft/ft_itoa.o: Norminette can't check this file.
+Norme: libft/ft_lstadd.c
+Warning: libft/ft_lstadd.o: Norminette can't check this file.
+Norme: libft/ft_lstdel.c
+Warning: libft/ft_lstdel.o: Norminette can't check this file.
+Norme: libft/ft_lstdelone.c
+Warning: libft/ft_lstdelone.o: Norminette can't check this file.
+Norme: libft/ft_lstiter.c
+Warning: libft/ft_lstiter.o: Norminette can't check this file.
+Norme: libft/ft_lstnew.c
+Warning: libft/ft_lstnew.o: Norminette can't check this file.
+Norme: libft/ft_memalloc.c
+Warning: libft/ft_memalloc.o: Norminette can't check this file.
+Norme: libft/ft_memccpy.c
+Warning: libft/ft_memccpy.o: Norminette can't check this file.
+Norme: libft/ft_memchr.c
+Warning: libft/ft_memchr.o: Norminette can't check this file.
+Norme: libft/ft_memcmp.c
+Warning: libft/ft_memcmp.o: Norminette can't check this file.
+Norme: libft/ft_memcpy.c
+Warning: libft/ft_memcpy.o: Norminette can't check this file.
+Norme: libft/ft_memdel.c
+Warning: libft/ft_memdel.o: Norminette can't check this file.
+Norme: libft/ft_memmove.c
+Warning: libft/ft_memmove.o: Norminette can't check this file.
+Norme: libft/ft_memset.c
+Warning: libft/ft_memset.o: Norminette can't check this file.
+Norme: libft/ft_putchar.c
+Warning: libft/ft_putchar.o: Norminette can't check this file.
+Norme: libft/ft_putchar_fd.c
+Warning: libft/ft_putchar_fd.o: Norminette can't check this file.
+Norme: libft/ft_putendl.c
+Warning: libft/ft_putendl.o: Norminette can't check this file.
+Norme: libft/ft_putendl_fd.c
+Warning: libft/ft_putendl_fd.o: Norminette can't check this file.
+Norme: libft/ft_putnbr.c
+Warning: libft/ft_putnbr.o: Norminette can't check this file.
+Norme: libft/ft_putnbr_fd.c
+Warning: libft/ft_putnbr_fd.o: Norminette can't check this file.
+Norme: libft/ft_putstr.c
+Warning: libft/ft_putstr.o: Norminette can't check this file.
+Norme: libft/ft_putstr_fd.c
+Warning: libft/ft_putstr_fd.o: Norminette can't check this file.
+Norme: libft/ft_strcat.c
+Warning: libft/ft_strcat.o: Norminette can't check this file.
+Norme: libft/ft_strchr.c
+Warning: libft/ft_strchr.o: Norminette can't check this file.
+Norme: libft/ft_strclr.c
+Warning: libft/ft_strclr.o: Norminette can't check this file.
+Norme: libft/ft_strcmp.c
+Warning: libft/ft_strcmp.o: Norminette can't check this file.
+Norme: libft/ft_strcpy.c
+Warning: libft/ft_strcpy.o: Norminette can't check this file.
+Norme: libft/ft_strdel.c
+Warning: libft/ft_strdel.o: Norminette can't check this file.
+Norme: libft/ft_strdup.c
+Warning: libft/ft_strdup.o: Norminette can't check this file.
+Norme: libft/ft_strequ.c
+Warning: libft/ft_strequ.o: Norminette can't check this file.
+Norme: libft/ft_striter.c
+Warning: libft/ft_striter.o: Norminette can't check this file.
+Norme: libft/ft_striteri.c
+Warning: libft/ft_striteri.o: Norminette can't check this file.
+Norme: libft/ft_strjoin.c
+Warning: libft/ft_strjoin.o: Norminette can't check this file.
+Norme: libft/ft_strlcat.c
+Warning: libft/ft_strlcat.o: Norminette can't check this file.
+Norme: libft/ft_strlen.c
+Warning: libft/ft_strlen.o: Norminette can't check this file.
+Norme: libft/ft_strmap.c
+Warning: libft/ft_strmap.o: Norminette can't check this file.
+Norme: libft/ft_strmapi.c
+Warning: libft/ft_strmapi.o: Norminette can't check this file.
+Norme: libft/ft_strncat.c
+Warning: libft/ft_strncat.o: Norminette can't check this file.
+Norme: libft/ft_strncmp.c
+Warning: libft/ft_strncmp.o: Norminette can't check this file.
+Norme: libft/ft_strncpy.c
+Warning: libft/ft_strncpy.o: Norminette can't check this file.
+Norme: libft/ft_strnequ.c
+Warning: libft/ft_strnequ.o: Norminette can't check this file.
+Norme: libft/ft_strnew.c
+Warning: libft/ft_strnew.o: Norminette can't check this file.
+Norme: libft/ft_strnstr.c
+Warning: libft/ft_strnstr.o: Norminette can't check this file.
+Norme: libft/ft_strrchr.c
+Warning: libft/ft_strrchr.o: Norminette can't check this file.
+Norme: libft/ft_strsplit.c
+Warning: libft/ft_strsplit.o: Norminette can't check this file.
+Norme: libft/ft_strstr.c
+Warning: libft/ft_strstr.o: Norminette can't check this file.
+Norme: libft/ft_strsub.c
+Warning: libft/ft_strsub.o: Norminette can't check this file.
+Norme: libft/ft_strtrim.c
+Warning: libft/ft_strtrim.o: Norminette can't check this file.
+Norme: libft/ft_tolower.c
+Warning: libft/ft_tolower.o: Norminette can't check this file.
+Norme: libft/ft_toupper.c
+Warning: libft/ft_toupper.o: Norminette can't check this file.
+Warning: libft/libft.a: Norminette can't check this file.
+Norme: libft/libft.h
+Warning: libft/Makefile: Norminette can't check this file.
+Norme: main.c
+Warning: main.o: Norminette can't check this file.
+Norme: parsing.c
+Error (line 41): function create_map has 26 lines
+Warning: parsing.o: Norminette can't check this file.
+Norme: struct_maker.c
+Warning: struct_maker.o: Norminette can't check this file.
